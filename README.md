@@ -4,3 +4,5 @@ https://github.com/ldm520/android_mediacodec_rtsp_h264
 
 安卓教程，非常详细：
 http://www.runoob.com/w3cnote/android-tutorial-listview-item.html
+
+sendEmail_demo是163邮箱给qq邮箱发邮件的demo。
