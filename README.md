@@ -14,3 +14,11 @@ gcc -c max.c -o max.o ,
 gcc max.o hello.c //此时会生成a.out可执行文件。使用./a.out执行，即可输出结果。
 如果有.h头文件，则头文件在.c文件里#include "max.h"一下即可，不需要在gcc编译命令里写max.h。
 
+编写makefile的方法
+第一行 写总编译指令，
+总编译指令需要的依赖文件都在下面写就行了
+其实makefile文件只需要看第一行总编译指令就可以了
+makefile写好之后，打开shell执行make命令，即可编译出a.out文件。
+
+
+
