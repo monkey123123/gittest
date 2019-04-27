@@ -7,6 +7,7 @@ http://www.runoob.com/w3cnote/android-tutorial-listview-item.html
 
 sendEmail_demo是163邮箱给qq邮箱发邮件的demo。
 
+https://www.imooc.com/video/6206 参见慕课网5-1
 c语言,制作静态库或生产静态库的方法：
 .o文件和.c文件同时编译的方法：
 gcc -c max.c -o max.o ,
