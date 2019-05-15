@@ -23,3 +23,6 @@ makefile写好之后，打开shell执行make命令，即可编译出a.out文件�
 做一个nginx+keepalived的双机热备实验：参考：
 https://www.cnblogs.com/kaituorensheng/p/4889268.html
 
+fescar生成undolog方法参考：
+https://www.jianshu.com/p/74cc4619c674
+
