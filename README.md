@@ -27,3 +27,6 @@ https://www.cnblogs.com/kaituorensheng/p/4889268.html
 fescar生成undolog方法参考：
 https://www.jianshu.com/p/74cc4619c674
 
+openssl查看rsa pem格式秘钥对的方法：
+私钥：openssl rsa -in privatekey.pem -text
+公钥：openssl rsa -pubin -in publickey.pem -text
