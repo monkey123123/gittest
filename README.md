@@ -20,6 +20,8 @@ gcc max.o hello.c //此时会生成a.out可执行文件。使用./a.out执行，
 总编译指令需要的依赖文件都在下面写就行了
 其实makefile文件只需要看第一行总编译指令就可以了
 makefile写好之后，打开shell执行make命令，即可编译出a.out文件。
+makefile最好的教程，一看就会，(已验证):
+https://www.cnblogs.com/warren-wong/p/3979270.html
 
 做一个nginx+keepalived的双机热备实验：参考：
 https://www.cnblogs.com/kaituorensheng/p/4889268.html
