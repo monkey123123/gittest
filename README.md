@@ -36,3 +36,6 @@ openssl查看rsa pem格式秘钥对的方法：
 docker部署springboot工程教程（验证有效,docker的安装参考了菜鸟教程）： 
 https://blog.csdn.net/junmoxi/article/details/80861199
 
+怎么加入开源项目教程：
+https://www.cnblogs.com/wenber/p/3630921.html
+
