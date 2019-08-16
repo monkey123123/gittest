@@ -38,4 +38,6 @@ https://blog.csdn.net/junmoxi/article/details/80861199
 
 怎么加入开源项目教程：
 https://www.cnblogs.com/wenber/p/3630921.html
+vue websocket可参考工程：
+https://github.com/congweijing/IotDeviceAdmin
 
