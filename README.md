@@ -41,3 +41,6 @@ https://www.cnblogs.com/wenber/p/3630921.html
 vue websocket可参考工程：
 https://github.com/congweijing/IotDeviceAdmin
 
+mqtt mosquitto TLS双向认证教程(经测试非常完善，完全可用)：
+https://www.cnblogs.com/saryli/p/9821757.html
+
