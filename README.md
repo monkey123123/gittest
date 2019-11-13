@@ -44,3 +44,6 @@ https://github.com/congweijing/IotDeviceAdmin
 mqtt mosquitto TLS双向认证教程(经测试非常完善，完全可用)：
 https://www.cnblogs.com/saryli/p/9821757.html
 
+visualvm插件下载地址(经测试能下载，安装后可用)：
+https://github.com/oracle/visualvm/releases/tag/1.3.9
+
